@@ -1,0 +1,28 @@
+START: 2017-01-05 15:01:12.459632
+Episode: 50, 45 wins, 2 draws, 3 loses
+Episode: 100, 47 wins, 0 draws, 3 loses
+Episode: 150, 43 wins, 1 draws, 6 loses
+Episode: 200, 46 wins, 0 draws, 4 loses
+END: 2017-01-05 15:01:32.623982
+START: 2017-01-05 16:27:26.096952
+Episode: 50, 45 wins, 3 draws, 2 loses
+Episode: 100, 45 wins, 0 draws, 5 loses
+Episode: 150, 44 wins, 2 draws, 4 loses
+Episode: 200, 44 wins, 1 draws, 5 loses
+END: 2017-01-05 16:27:46.494899
+START: 2017-01-05 16:28:20.422742
+Episode: 50, 45 wins, 0 draws, 5 loses
+Episode: 100, 44 wins, 0 draws, 6 loses
+Episode: 150, 43 wins, 2 draws, 5 loses
+Episode: 200, 47 wins, 1 draws, 2 loses
+END: 2017-01-05 16:28:56.571369
+START: 2017-01-05 17:03:50.512451
+Episode: 50, 47 wins, 0 draws, 3 loses
+Episode: 100, 48 wins, 1 draws, 1 loses
+Episode: 150, 43 wins, 2 draws, 5 loses
+Episode: 200, 43 wins, 0 draws, 7 loses
+END: 2017-01-05 17:04:11.310478
+START: 2017-01-05 17:44:19.151071
+START: 2017-01-05 17:45:32.123662
+START: 2017-01-05 17:47:21.852305
+START: 2017-01-05 17:50:09.215431
